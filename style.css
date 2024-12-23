@@ -171,7 +171,7 @@ body {
 }
 
 .card1 {
-  background-image: url('../3/slike/webdesign1.jpg');
+  background-image: url('slike/webdesign1.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -188,7 +188,7 @@ body {
 }
 
 .card2 {
-  background-image: url('../3/slike/webdevelopment.jpg');
+  background-image: url('slike/webdevelopment.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -205,7 +205,7 @@ body {
 }
 
 .card3 {
-  background-image: url('../3/slike/landingpage.jpg');
+  background-image: url('slike/landingpage.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -222,7 +222,7 @@ body {
 }
 
 .card4 {
-  background-image: url('../3/slike/wordpress.jpg');
+  background-image: url('slike/wordpress.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -239,7 +239,7 @@ body {
 }
 
 .card5 {
-  background-image: url('../3/slike/facebookinstagram.jpeg');
+  background-image: url('slike/facebookinstagram.jpeg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -256,7 +256,7 @@ body {
 }
 
 .card6 {
-  background-image: url('../3/slike/odrzavanjesajtova.jpg');
+  background-image: url('slike/odrzavanjesajtova.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
